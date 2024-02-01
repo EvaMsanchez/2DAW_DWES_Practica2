@@ -1,0 +1,19 @@
+h3{
+    background-color: #C70039;
+}
+
+.margin{
+    margin: 0px 110px;
+}
+
+.margin-lupa{
+    margin: 0px 155px;
+}
+
+.imagen{
+    transition: transform 0.3s ease-in-out;
+}
+
+.imagen:hover {
+    transform: scale(1.1);
+}

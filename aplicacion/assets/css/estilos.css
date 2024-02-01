@@ -1,0 +1,52 @@
+a{
+    text-decoration: none;
+}
+
+.color .h3{
+    background-color: #333;
+    color: white;
+}
+
+.btn-inicio{
+    background-color: #CFD2CF;
+}
+
+.btn-inicio:hover{
+    background-color: #EEEEEE;
+}
+
+.btn-agregar{
+    background-color: #1AACAC;
+}
+
+.btn-agregar:hover, .btn-agregar:focus{
+    background-color: #64CCC5;
+    color: white;
+}
+
+.btn-editar{
+    background-color: #FBD85D;
+}
+
+.btn-editar:hover{
+    background-color: #F8FF95;
+}
+
+.btn-borrar{
+    background-color: #D80032;
+    color: white;
+}
+
+.btn-borrar:hover{
+    background-color: #FF6969;
+    color: white;
+}
+
+table .color-th{
+    background-color: #427D9D;
+}
+
+.reyes, .nombre-nino{
+    color: #B0578D;
+}
+

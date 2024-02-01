@@ -1,0 +1,7 @@
+
+ninos (#idNino, nombreNino, apellidosNino, fechaNacimientoNino, buenoNino)
+reyes (#idRey, nombreRey)
+juguetes (#idJuguete, nombreJuguete, precioJuguete, idReyFK)
+
+RELACIONES N:M
+regalos (#idRegalo, idNinoFK, idJugueteFK)
